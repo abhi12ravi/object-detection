@@ -1,14 +1,6 @@
 
 # Object detection assignment
 
-**Description**:  Put a meaningful, short, plain-language description of what
-this project is trying to accomplish and why it matters.
-Describe the problem(s) this project solves.
-Describe how this software can improve the lives of its audience.
-
-## Goals of this project
-1. To develop a HTTP server in Python as described in the task description
-
 ## Task description:
 ```
 Object Detection is one of the fundamental tasks in computer vision with applications
@@ -17,6 +9,11 @@ consists of images containing people and cars. The goal of this task is to train
 can localize and classify each instance of person and car as accurately as possible.
 ```
 
+
+## Goals of this project
+1. To develop a ML model that can detect persons and cars as accurately as possible.
+
+
 ## Solution
 
 
@@ -24,7 +21,7 @@ can localize and classify each instance of person and car as accurately as possi
 ## Steps to run the file
 
 
-Output:
+## Output
 
 
 ## Screenshots
