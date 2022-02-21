@@ -31,3 +31,5 @@ can localize and classify each instance of person and car as accurately as possi
 
 ## References
 1. [COCO documentation](https://arxiv.org/pdf/1405.0312.pdf)
+2. [COCO to VOC annotations convertor](https://pypi.org/project/imgann/)
+3. [bbox-visualizer](https://bbox-visualizer.readthedocs.io/en/latest/)
