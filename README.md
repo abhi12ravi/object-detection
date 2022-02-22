@@ -10,23 +10,21 @@ can localize and classify each instance of person and car as accurately as possi
 ```
 
 
-## Goals of this project
+## Goals of this assignment
 1. To develop a ML model that can detect persons and cars as accurately as possible.
 
 
+## Approach
+The approach was to use state-of-the-art object detection models like resnet and yolo, use transfer learning to predict only the required labels. 
+
+
 ## Solution
+1. Approach 1 - [resnet pre-trained model](https://github.com/abhi12ravi/object-detection/blob/main/notebooks/object_detection_using_resnet.ipynb)
+2. Approach 2 - [yolo v3 pre-trained model ](https://github.com/abhi12ravi/object-detection/blob/main/notebooks/detections_yolov3.ipynb)
+3. Approach 3 - [yolo v3 custom trained model ](https://github.com/abhi12ravi/object-detection/blob/main/notebooks/yolo_object_detection_.ipynb)
 
-
-
-## Steps to run the file
-
-
-## Output
-
-
-## Screenshots
-
-
+## Comment
+The approach 3 could not be successfully implemented because the training process could not be completed on Google Colab.
 
 
 ## References
