@@ -17,6 +17,7 @@ can localize and classify each instance of person and car as accurately as possi
 ## Approach
 The approach was to use state-of-the-art object detection models like resnet and yolo, use transfer learning to predict only the required labels. 
 
+Dataset is available [here](https://evp-ml-data.s3.us-east-2.amazonaws.com/ml-interview/openimages-personcar/trainval.tar.gz).
 
 ## Solution
 1. Approach 1 - [resnet pre-trained model](https://github.com/abhi12ravi/object-detection/blob/main/notebooks/object_detection_using_resnet.ipynb)
